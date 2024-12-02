@@ -1,0 +1,2 @@
+# weightcalc
+Personal use
